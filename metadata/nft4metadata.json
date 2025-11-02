@@ -1,0 +1,15 @@
+{
+  "name": "Jimi Hendrix - Stratocaster",
+  "description": "Jimi Hendrix playing his iconic white Stratocaster guitar on stage.",
+  "image": "ipfs://bafybeid6xx6ut4ujnppkjpyapbty4h7ycdbhjaprvsroefklurrj4p66u4",
+  "attributes": [
+    {
+      "trait_type": "Player",
+      "value": "Jimi Hendrix"
+    },
+    {
+      "trait_type": "Guitar",
+      "value": "Stratocaster"
+    }
+  ]
+}

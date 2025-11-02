@@ -1,0 +1,15 @@
+{
+  "name": "Brian May - Red Special",
+  "description": "Brian May of Queen playing his iconic Red Special guitar on stage.",
+  "image": "ipfs://bafybeicqlsnewzbpkkjpuz4xsns33ll4tvi2kuqbygsfur4r7zk5r37ngi",
+  "attributes": [
+    {
+      "trait_type": "Player",
+      "value": "Brian May"
+    },
+    {
+      "trait_type": "Guitar",
+      "value": "Red Special"
+    }
+  ]
+}
